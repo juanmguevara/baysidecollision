@@ -6174,6 +6174,16 @@ button.bg-dark:focus {
   background-color: #1d2124 !important;
 }
 
+.bg-black {
+  background-color: #121514 !important;
+}
+
+a.bg-black:hover, a.bg-black:focus,
+button.bg-black:hover,
+button.bg-black:focus {
+  background-color: #1d2124 !important;
+}
+
 .bg-white {
   background-color: #fff !important;
 }
@@ -9845,7 +9855,11 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 .text-light {
-  color: #f8f9fa !important;
+  color: #D7D8DA !important;
+}
+
+.text-grey {
+  color: #959595 !important;
 }
 
 a.text-light:hover, a.text-light:focus {
